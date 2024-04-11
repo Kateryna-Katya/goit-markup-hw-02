@@ -56,7 +56,7 @@ h3 {
   color: #2e2f42;
 }
 .team {
-  background: #f4f4fd;
+  background-color: #ffffff;
 }
 .footer {
   background: #2e2f42;
@@ -80,9 +80,11 @@ a {
 }
 .button:hover {
   color: #404bbf;
+  background-color: #404bbf;
 }
 .button:active {
   color: #404bbf;
+  background-color: #404bbf;
 }
 .our-team {
   text-transform: capitalize;
@@ -148,4 +150,7 @@ a {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.logo:hover {
+  color: #404bbf;
 }
