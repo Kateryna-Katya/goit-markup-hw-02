@@ -111,10 +111,10 @@ a {
 .address {
   font-style: normal;
 }
-.link-top-one:hover {
+.link-top:hover {
   color: #404bbf;
 }
-.link-top-one:active {
+.link-top:active {
   color: #404bbf;
 }
 .link-top-one {
@@ -154,4 +154,10 @@ a {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.link:hover {
+  color: #404bbf;
+}
+.link:active {
+  color: #404bbf;
 }
