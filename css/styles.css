@@ -56,7 +56,7 @@ h3 {
   color: #2e2f42;
 }
 .team {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 .footer {
   background: #2e2f42;
@@ -153,4 +153,13 @@ a {
 }
 .logo:hover {
   color: #404bbf;
+}
+.studio-head:hover {
+  color: #404bbf;
+}
+.studio-head:active {
+  color: #404bbf;
+}
+.team-img {
+  background-color: #ffffff;
 }
