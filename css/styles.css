@@ -30,7 +30,7 @@ p {
   color: #ffffff;
 }
 .button {
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   color: #ffffff;
   font-weight: 500;
@@ -133,7 +133,7 @@ a {
 .link-address:active {
   color: #404bbf;
 }
-.our-team-list {
+.our-team-list-two {
   color: #ffffff;
 }
 .strategy {
