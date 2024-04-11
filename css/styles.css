@@ -163,3 +163,9 @@ a {
 .team-img {
   background-color: #ffffff;
 }
+.link-top:focus {
+  color: #404bbf;
+}
+.button:focus {
+  background-color: #404bbf;
+}
