@@ -175,3 +175,9 @@ a {
 .list-team {
   background-color: #ffffff;
 }
+.logo:focus {
+  color: #404bbf;
+}
+.team {
+  background-color: #f4f4fd;
+}
