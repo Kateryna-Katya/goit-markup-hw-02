@@ -173,14 +173,17 @@ a {
   color: #404bbf;
 }
 .list-team {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 .logo:focus {
   color: #404bbf;
 }
 .team {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 .address:focus {
+  color: #404bbf;
+}
+.link-address:focus {
   color: #404bbf;
 }
